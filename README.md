@@ -20,7 +20,7 @@ Next Skazka has been ported to the Sega MegaDrive / Genesis using the  [SGDK](ht
 - Programming:	SGDK
 - Language:		C
 - Visual Studio 2015
-- Graphics:		[RseizeImage.net](https://resizeimage.net) / [BMP converter](https://online-converting.com/image/convert2bmp)
+- Graphics:		[Image Resizer](https://imagelr.com/image-resizer) / [BMP converter](https://online-converting.com/image/convert2bmp)
 - Music:		Audacity / YouTube
 - Emulators:	Fusion / Gens
 
